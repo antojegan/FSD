@@ -9,3 +9,10 @@
 5. Print 1-100 - For loop
 6. Print 1-50 Even Numbers - For loop
 7. CountDigits - For loop
+
+## 17.10.2026
+
+1. Arithmetic Operators - `+`, `-`, `*`, `/`, `%`
+2. Relational Operators - `==`, `!=`, `<`, `>`, `<=`, `>=`
+3. Logical Operators - `&&` (AND), `||` (OR), `!` (NOT)
+4. Assignment Operators - `=`, `+=`, `-=`, `*=`, `/=`, `%=`
